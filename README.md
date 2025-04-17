@@ -1,4 +1,4 @@
-# 🌿 Ayo-Ayo Farm | Official Website
+# 🌿 Ayo-Ayo Farm | Website
 
 This website is still in the making. Further revisions will be implemented in due time
 
