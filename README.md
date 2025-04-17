@@ -34,7 +34,7 @@ The **Ayo-Ayo Farm Website** is a digital platform that:
 - Lea Angela Oracion  
 - Shaytel Cain Padillo  
 - Abs Marie Pono  
-- Laurenz Mesiah A. Palanas *(Developer of this website)*
+- Laurenz Mesiah A. Palanas
 
 
 ## 🚧 Development Status
