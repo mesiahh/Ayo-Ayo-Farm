@@ -44,4 +44,4 @@ The **Ayo-Ayo Farm Website** is a digital platform that:
 ## 📌 Notes
 FINAL OUTPUT SHOULD:
 - be a funcationable static website
-- put in readme for sample navigations 
+- put gif in readme for sample navigations 
