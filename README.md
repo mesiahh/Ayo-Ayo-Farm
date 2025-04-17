@@ -36,17 +36,12 @@ The **Ayo-Ayo Farm Website** is a digital platform that:
 - Abs Marie Pono  
 - Laurenz Mesiah A. Palanas *(Developer of this website)*
 
-## 🔒 Access & Permissions
-
-> This repository is **private and not open-sourced**.  
-> Only the developer, **Laurenz Mesiah A. Palanas**, has access and editing rights.  
-> Collaboration requests are subject to approval.
 
 ## 🚧 Development Status
-
-- [x] Website Structure and Layout
-- [x] Product & Dining Sections
-- [x] Responsive Design
+- [X] Initial Draft
+- [ ] Website Structure and Layout
+- [ ] Product & Dining Sections
+- [ ] Responsive Design
 - [ ] Tour Booking System
 - [ ] Contact Form Functionality
 - [ ] Deployment
