@@ -36,14 +36,10 @@ The **Ayo-Ayo Farm Website** is a digital platform that:
 - Abs Marie Pono  
 - Laurenz Mesiah A. Palanas 
 
-## 🚧 Development Status
+## 🚧 Pending Development Status
 - Focus on the Immune Booster Product
 - responsive design
-- Wen
 - slowly expand on the said dining sections
-- [x] Website Structure and Layout
-- [x] Product & Dining Sections
-- [x] Responsive Design
 
 ## 📌 Notes
 FINAL OUTPUT SHOULD:
