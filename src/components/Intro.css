@@ -1,0 +1,18 @@
+/* Intro.css */
+.intro {
+  background-color: #8fc442;
+  color: white;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.intro h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.intro p {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
